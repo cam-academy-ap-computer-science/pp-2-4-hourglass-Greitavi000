@@ -1,7 +1,6 @@
-/*  Firs we need to do top of hourglass. firstPart is for |""""""""""|. Then we creating nested loop for the top \:/. 
-  secondPart is for that.
-  
-
+/*  Firs we need to do top of hourglass. firstPart is for |""""""""""|. Then we creating nested loop for the top \:/, 
+  secondPart is for that. The middle part is just println statement of ||. And then we duing  nested loop for the bottom /:\.
+  And then we put firstPart  |""""""""""| again for the buttom. And boom you have hourglass.  
 */
 
 public class Hourglass {
@@ -64,8 +63,7 @@ public class Hourglass {
 		
 		    }
 				}
-				
-		    
+	
 			
 			
 			
