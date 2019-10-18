@@ -1,3 +1,32 @@
+/***** 
+ * Grading Comments:   22/25 pts
+ * Nice Job.  Your program compiles and does the job.  
+ * 
+ * There are a couple of things you can improve upon.
+ *  - Your indentation makes it very difficult to read and
+ *    follow.   It may not seem important, but it actually
+ *    significantly adds to the effort you need to make to 
+ *    understand your program and makes it easier to introduce
+ *    bugs.
+ *  - Although you used a class constant, you didn't really
+ *   use it for much except 1.  It would've been good to say
+ *   'WIDTH' for the firstpart for loops.
+ *  - You could have used a loop to print out the " in the 
+ *  top and bottom of the hourglass, and you didn't need a 
+ *  for loop from i = 1; i <= 1... it's just a statement.
+ *  - The pseudocode is ok - you broke down what you needed
+ *  to do, but it should be a tool to help you write the code
+ *  
+ * Correct Output 10/10
+ * Proper Use of Static Methods 3/3
+ * Proper Use of for loops 3/3
+ * Pseudocode 2/3
+ * Comments 2/2
+ * Consistent Layout and Style 1/2 -  Make sure your
+ *   indentation lines up correctly, though - 
+ * Proper Use of Class Constant 1/2 -   
+ * Resizing extra credit: 0/2
+ */ 
 /*  Firs we need to do top of hourglass. firstPart is for |""""""""""|. Then we creating nested loop for the top \:/, 
   secondPart is for that. The middle part is just println statement of ||. And then we duing  nested loop for the bottom /:\.
   And then we put firstPart  |""""""""""| again for the buttom. And boom you have hourglass.  
